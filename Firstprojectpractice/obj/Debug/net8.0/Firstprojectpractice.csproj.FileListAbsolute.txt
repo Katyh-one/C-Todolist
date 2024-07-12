@@ -1,0 +1,14 @@
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\bin\Debug\net8.0\Firstprojectpractice.exe
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\bin\Debug\net8.0\Firstprojectpractice.deps.json
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\bin\Debug\net8.0\Firstprojectpractice.runtimeconfig.json
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\bin\Debug\net8.0\Firstprojectpractice.dll
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\bin\Debug\net8.0\Firstprojectpractice.pdb
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.AssemblyInfoInputs.cache
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.AssemblyInfo.cs
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.csproj.CoreCompileInputs.cache
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.dll
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\refint\Firstprojectpractice.dll
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.pdb
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\Firstprojectpractice.genruntimeconfig.cache
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\Firstprojectpractice\obj\Debug\net8.0\ref\Firstprojectpractice.dll

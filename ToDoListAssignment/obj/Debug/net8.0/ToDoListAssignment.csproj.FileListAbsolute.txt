@@ -1,0 +1,14 @@
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\bin\Debug\net8.0\ToDoListAssignment.exe
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\bin\Debug\net8.0\ToDoListAssignment.deps.json
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\bin\Debug\net8.0\ToDoListAssignment.runtimeconfig.json
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\bin\Debug\net8.0\ToDoListAssignment.dll
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\bin\Debug\net8.0\ToDoListAssignment.pdb
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.AssemblyInfoInputs.cache
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.AssemblyInfo.cs
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.dll
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\refint\ToDoListAssignment.dll
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.pdb
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ToDoListAssignment.genruntimeconfig.cache
+C:\Users\khatch\source\repos\udemycsharp\Firstprojectpractice\ToDoListAssignment\obj\Debug\net8.0\ref\ToDoListAssignment.dll
